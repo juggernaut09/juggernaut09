@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
 # 💫 About Me:
-<br>I'm a dedicated and experienced software engineer with a solid foundation in computer science and a passion for building innovative solutions. With a Master's degree in Computer Science from the University of South Florida and a Bachelor's degree from Vidya Jyothi Institute of Technology, I bring a wealth of knowledge and expertise to the table.<br><br>My skill set includes proficiency in a variety of programming languages such as Python, Java, C, C++, Go, and Rust, along with extensive experience with tools and frameworks like Flask, ExpressJS, ReactJS, NodeJS, and more. I'm well-versed in cloud computing platforms like AWS, DigitalOcean, and Google Cloud Platform, and I have a proven track record of delivering high-quality software solutions in both individual and team settings.<br><br>Throughout my career, I've successfully tackled challenges ranging from automating testing processes and optimizing application performance to enhancing security measures and deploying scalable cloud infrastructures. I'm passionate about staying updated with the latest technologies and methodologies, and I thrive in dynamic environments where I can apply my skills to drive meaningful impact.<br><br>I'm excited to connect with like-minded professionals, collaborate on interesting projects, and contribute to the open-source community. Let's build something amazing together! 🚀
+I'm a dedicated and experienced software engineer with a solid foundation in computer science and a passion for building innovative solutions. With a Master's degree in Computer Science from the University of South Florida and a Bachelor's degree from Vidya Jyothi Institute of Technology, I bring a wealth of knowledge and expertise to the table.<br><br>My skill set includes proficiency in a variety of programming languages such as Python, Java, C, C++, Go, and Rust, along with extensive experience with tools and frameworks like Flask, ExpressJS, ReactJS, NodeJS, and more. I'm well-versed in cloud computing platforms like AWS, DigitalOcean, and Google Cloud Platform, and I have a proven track record of delivering high-quality software solutions in both individual and team settings.<br><br>Throughout my career, I've successfully tackled challenges ranging from automating testing processes and optimizing application performance to enhancing security measures and deploying scalable cloud infrastructures. I'm passionate about staying updated with the latest technologies and methodologies, and I thrive in dynamic environments where I can apply my skills to drive meaningful impact.<br><br>I'm excited to connect with like-minded professionals, collaborate on interesting projects, and contribute to the open-source community. Let's build something amazing together! 🚀
 
 
 ## 🌐 Socials:
@@ -27,4 +26,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=juggernaut09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
