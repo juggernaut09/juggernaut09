@@ -17,7 +17,7 @@ I'm a dedicated and experienced software engineer with a solid foundation in com
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=juggernaut09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Fav Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
